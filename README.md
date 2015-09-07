@@ -13,6 +13,6 @@ All source is open source, you may use this for anything you wish.
 
 There is no intended use, you at your own risk.
 
-![image](https://https://github.com/ThomasJay/BlueHouseSim/master/app.png)
+![image](https://github.com/ThomasJay/BlueHouseSim/master/app.png)
 
 
